@@ -1,0 +1,39 @@
+/*
+	CUSTOM FONTS BY ARIGUNA "HenryRoderickson" WICAKSANA
+	This CSS Framework allows you to change the appearance of the font by including a class in HTML or PHP.
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Rubik&display=swap');
+/*@import url('font url goes here, you can find it at fonts.google.com')*/
+
+
+/* LIST OF FONT CLASSES BY DEFAULT */
+.fnt-fjalla
+{
+    font-family: 'Fjalla One', sans-serif;
+}
+.fnt-lobster2
+{
+    font-family: 'Lobster Two', cursive;
+}
+.fnt-bebas
+{
+    font-family: 'Bebas Neue', cursive;
+}
+.fnt-condensedroboto
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fnt-rubik
+{
+    font-family: 'Rubik', sans-serif;
+}
+/*
+.fnt-fontnamegoeshere
+{
+	font-family: 'font goes here', 'font-type';
+}
+*/
