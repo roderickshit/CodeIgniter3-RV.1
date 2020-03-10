@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to CodeIgniter</title>
+	<title>Error 404</title>
 </head>
 <body>
 	<nav class="navbar navbar-expand-sm bg-light navbar-light" style="height: 50px;">
